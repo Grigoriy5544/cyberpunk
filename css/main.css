@@ -487,6 +487,10 @@
     .container {
         overflow: hidden;
     }
+
+    .hero .container {
+        overflow: visible;
+    }
     
     .description {
         max-width: 100%;
